@@ -10,8 +10,8 @@ Contact me at [/u/knot-a-robot](https://www.reddit.com/user/knot-a-robot).
 
 ![Splash & Gotcha](img/splash-gotcha-v1.jpg)
 
-| (All SA profile except "Gotcha") | R3 | R3 scoop (homing) | R2/R4 | R1 |
+| (All SA profile except "Gotcha") | A  | B                 | C     | D |
 |----------------------------------|----|-------------------|-------|----|
-| Gotcha                           |    |                   |       |    |
-| Splash (bubbles)                 |    |                   |       |    |
-| Splash (seafoam)                 |    |                   |       |    |
+| 0: Gotcha                        | -  |  Gotcha CoB       | BoC   |  - |
+| 1: Splash (bubbles)              | R3 |  R3 homing        | R2/R4 | R1 |
+| 2: Splash (seafoam)              | R3 |  R3 homing        | R2/R4 | R1 |
