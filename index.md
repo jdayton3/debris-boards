@@ -1,6 +1,3 @@
-
-Contact me at [/u/knot-a-robot](https://www.reddit.com/user/knot-a-robot) or debrisboards@gmail.com.
-
 ## Caps
 
 ### Splash / Gotcha
