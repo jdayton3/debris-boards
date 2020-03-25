@@ -1,8 +1,5 @@
-# Debris Boards
 
-Garbage keycaps, keycaps that look like garbage, keycaps made of garbage. Debris boards.
-
-Contact me at [/u/knot-a-robot](https://www.reddit.com/user/knot-a-robot).
+Contact me at [/u/knot-a-robot](https://www.reddit.com/user/knot-a-robot) or debrisboards@gmail.com.
 
 ## Caps
 
