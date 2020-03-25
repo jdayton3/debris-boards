@@ -9,3 +9,9 @@
 | 0: Gotcha                        | -  |  Gotcha CoB       | BoC   |  - |
 | 1: Splash (bubbles)              | R3 |  R3 homing        | R2/R4 | R1 |
 | 2: Splash (seafoam)              | R3 |  R3 homing        | R2/R4 | R1 |
+
+### Yo Tambien
+
+Get it? Like, I-2, Me Too, Yo Tambien? Eh, nevermind
+
+![Yo Tambien test cast](img/ib.jpg)
