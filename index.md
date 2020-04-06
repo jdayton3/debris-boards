@@ -1,5 +1,15 @@
 ## Caps
 
+### Self-Made Man
+
+#### Prescription
+
+![Prescription](img/face.jpg)
+
+#### I Just Blue Myself
+
+![Blue](img/blue.jpg)
+
 ### Splash / Gotcha
 
 ![Splash & Gotcha](img/splash-gotcha-v1.jpg)
