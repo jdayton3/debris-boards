@@ -6,6 +6,10 @@
 
 ![Prescription](img/face.jpg)
 
+#### OTC
+
+![Over the Counter](img/otc.jpg)
+
 #### I Just Blue Myself
 
 ![Blue](img/blue.jpg)
