@@ -24,4 +24,10 @@
 
 Get it? Like, I-2, Me Too, Yo Tambien? Eh, nevermind
 
+#### Prescription
+
+![Prescription](pill_bubbles.jpg)
+
+#### Test colors
+
 ![Yo Tambien test cast](img/ib.jpg)
