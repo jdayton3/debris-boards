@@ -1,3 +1,8 @@
+## For Science!
+
+I didn't make the keyboard, but I'm running the group buy!
+Check [here](https://www.reddit.com/r/mechmarket/comments/gadak2/gb_for_science_a_tiny_split_inexpensive/) for the info.
+
 ## Caps
 
 ### Self-Made Man
@@ -24,9 +29,7 @@
 | 1: Splash (bubbles)              | R3 |  R3 homing        | R2/R4 | R1 |
 | 2: Splash (seafoam)              | R3 |  R3 homing        | R2/R4 | R1 |
 
-### Yo Tambien
-
-Get it? Like, I-2, Me Too, Yo Tambien? Eh, nevermind
+### Aches & Pains
 
 #### Prescription
 
